@@ -1,0 +1,2 @@
+[workspace]
+members = ["day_*", "helpers"]
